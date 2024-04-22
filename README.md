@@ -4,9 +4,9 @@ How to Use:
 .Run the program.
 .Input the decimal number you want to convert.
 .Choose an option:
-  -Option 1: Convert to binary.
-  -Option 2: Convert to hexadecimal.
-  -Option 3: Exit the program.
+  .Option 1: Convert to binary.
+  .Option 2: Convert to hexadecimal.
+  .Option 3: Exit the program.
   
 The program will display the converted number according to your selection.
 
