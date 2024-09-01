@@ -11,4 +11,4 @@ This Java program is a simple tool designed to convert decimal numbers into bina
      
 The program will display the converted number according to your selection.
 
--JDK 1.8-
+-JDK 1.8
